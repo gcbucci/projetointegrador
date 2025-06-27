@@ -4,6 +4,8 @@ Este projeto foi desenvolvido como parte do **Projeto Integrador UNIVAG** pelos 
 - **Gustavo Bucci**
 - **Rafael**
 
+## Parte de documentação do projeto realizado com ajuda de I.A ##
+
 # E-commerce para Bar - Bar Valhala
 
 Este projeto é um e-commerce básico para um bar, desenvolvido como uma Single Page Application (SPA) com front-end em React e back-end em Node.js (API RESTful). O sistema permite aos clientes visualizar produtos, adicionar itens ao carrinho e realizar pedidos online.
