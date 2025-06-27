@@ -1,8 +1,12 @@
+Este projeto foi desenvolvido como parte do **Projeto Integrador UNIVAG** pelos alunos:
+- **Flavio Tonelle**
+- **Jupirany Barros**
+- **Gustavo Bucci**
+- **Rafael**
+
 # E-commerce para Bar - Bar Valhala
 
 Este projeto é um e-commerce básico para um bar, desenvolvido como uma Single Page Application (SPA) com front-end em React e back-end em Node.js (API RESTful). O sistema permite aos clientes visualizar produtos, adicionar itens ao carrinho e realizar pedidos online.
-
-**🆕 NOVA VERSÃO COM MONGODB**: O projeto agora inclui integração com banco de dados MongoDB para persistência de dados de produtos, estoque e pedidos.
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -377,64 +381,9 @@ curl -X POST http://localhost:3001/api/products \
 npm run seed
 ```
 
-## 🔮 Próximos Passos
-
-### Melhorias Futuras
-- [ ] Sistema de autenticação de usuários
-- [ ] Integração com gateway de pagamento
-- [ ] Painel administrativo completo
-- [ ] Sistema de avaliações e comentários
-- [ ] Notificações push
-- [ ] Integração com delivery
-- [ ] Programa de fidelidade
-- [ ] Chat de suporte
-- [ ] Sistema de cupons e promoções
-- [ ] Relatórios de vendas
-- [ ] Backup automático do banco
-
-### Otimizações Técnicas
-- [ ] Implementação de cache (Redis)
-- [ ] Testes automatizados (Jest, Cypress)
-- [ ] CI/CD pipeline
-- [ ] Monitoramento e logs avançados
-- [ ] SEO e meta tags
-- [ ] PWA (Progressive Web App)
-- [ ] Otimização de imagens
-- [ ] Compressão de dados
-- [ ] Rate limiting
-- [ ] Segurança avançada
-
-## 🔒 Segurança
-
-### Medidas Implementadas
-- Validação robusta de dados com Mongoose
-- Sanitização de entradas
-- CORS configurado
-- Variáveis de ambiente para dados sensíveis
-- Soft delete para produtos
-- Validação de IDs do MongoDB
-
-### Para Produção
-- Implementar autenticação JWT
-- Configurar HTTPS
-- Rate limiting
-- Logs de segurança
-- Backup regular do banco
-- Monitoramento de atividades suspeitas
-
 ## 📄 Licença
 
 Este projeto foi desenvolvido para fins educacionais e demonstrativos.
-
-## 👥 Contribuição
-
-Para contribuir com o projeto:
-
-1. Faça um fork do repositório
-2. Crie uma branch para sua feature (`git checkout -b feature/nova-feature`)
-3. Commit suas mudanças (`git commit -am 'Adiciona nova feature'`)
-4. Push para a branch (`git push origin feature/nova-feature`)
-5. Abra um Pull Request
 
 ## 📞 Suporte
 
@@ -461,24 +410,3 @@ Para dúvidas ou suporte:
 - ✅ Design responsivo
 
 ---
-
-**Desenvolvido com ❤️ para o Bar Valhala**
-
-### Atribuição do Projeto da Faculdade
-
-Este projeto foi desenvolvido como parte do **Projeto Integrador UNIVAG** pelos alunos:
-- **Flavio Tonelle**
-- **Jupirany Barros**
-- **Gustavo Bucci**
-- **Rafael**
-
-
-
-### Atribuição do Projeto da Faculdade
-
-Este projeto foi desenvolvido como parte do **Projeto Integrador UNIVAG** pelos alunos:
-- **Flavio Tonelle**
-- **Jupirany Barros**
-- **Gustavo Bucci**
-- **Rafael**
-
